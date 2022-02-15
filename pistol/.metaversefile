@@ -1,0 +1,15 @@
+{
+  "name": "pistol",
+  "start_url": "index.js",
+  "components": [
+    {
+      "key": "aim",
+      "value": {}
+    },
+    {
+      "key": "use",
+      "value": {
+        "ik": "pistol"
+      }
+    }
+  ]

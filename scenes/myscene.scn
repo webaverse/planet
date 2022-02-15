@@ -1,0 +1,129 @@
+{
+  "objects": [
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[255, 255, 255], 0.5]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 255, 255], 5],
+        "position": [1, 2, 3],
+        "shadow": [150, 5120, 0.1, 10000, -0.0001]
+      }
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/mirror/"
+    },
+ {
+      "position": [
+        6,
+        2,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/silk-fountains-trees/"
+    },
+  {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/twilight-sky/"
+    },
+    {
+      "position": [
+        4,
+        0,
+        1
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://avatar-models.exokit.org/model49.vrm",
+      "dynamic": true
+    },
+    {
+      "position": [
+        -26,
+        0,
+        -2
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://webaverse.github.io/app/public/avatars/MaterialDebug_MTOON_vian.vrm",
+      "dynamic": true
+    },
+ {
+      "position": [
+        -20,
+        0,
+        -4
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://webaverse.github.io/app/public/avatars/meebit.vrm",
+      "dynamic": true
+    },
+ {
+      "position": [
+        -32,
+        0,
+        -6
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://webaverse.github.io/app/public/avatars/default-female.vrm",
+      "dynamic": true
+    },
+ {
+      "position": [
+        -38,
+        0,
+        0
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://webaverse.github.io/app/public/avatars/scillia.vrm",
+      "dynamic": true
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "physics": true,
+      "start_url": "https://webaverse.github.io/grid/grid.glb",
+      "dynamic": false
+    }
+  ]
+}

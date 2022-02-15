@@ -1,0 +1,262 @@
+{
+  "objects": [
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[255, 255, 255], 0.5]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 255, 255], 5],
+        "position": [1, 2, 3],
+        "shadow": [150, 5120, 0.1, 10000, -0.0001]
+      }
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/night-skybox/"
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "physics": true,
+      "start_url": "https://github.com/amnaarshed4224/assets/raw/main/sci-fi_planet.glb",
+      "dynamic": false
+    },
+{
+"position": [
+-11.59,
+1.7,
+-26.26
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+-18.05,
+1.8,
+-24.91
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/ethereum_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+-19.07,
+1.78,
+-19.44
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+-25.12,
+1.75,
+-19.18
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+3.54,
+1.9,
+-21.95
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/ethereum_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+8.23,
+1.8,
+-19.27
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+11.46,
+1.73,
+-14.04
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+8.43,
+1.67,
+-8.22
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+27.29,
+5.8,
+6.65
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+27.88,
+8.3,
+11.7
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+26.07,
+8,
+17.15
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+22.78,
+8,
+19.61
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+12.33,
+6.7,
+25.08
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+5.90,
+6.77,
+28.23
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+,
+{
+"position": [
+0.34,
+8.33,
+27.09
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://github.com/amnaarshed4224/assets/raw/main/bitcoin_3d_v1_vian.glb"
+}
+  ]
+}

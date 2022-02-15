@@ -1,0 +1,46 @@
+{
+  "objects": [
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[255, 255, 255], 0.5]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 255, 255], 5],
+        "position": [1, 100, 3]
+      }
+    },
+    {
+      "position": [0,0,0],
+      "start_url": "https://webaverse.github.io/night-skybox/"
+    },
+
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "physics": true,
+      "start_url": "https://github.com/Sunny3D/planet_day/raw/main/sci-fi_planet.glb",
+      "dynamic": false
+    },
+    {
+      "position": [3,1,-8],
+      "quaternion": [0,0.7071,0,0.7071],
+      "start_url": "https://propialis.github.io/sword/"
+    },
+	  {
+      "position": [0,4,0],
+      "quaternion": [0,0,0,0],
+      "physics": false,
+      "start_url": "https://webaverse.github.io/firefly/"
+    }
+
+  ]
+}
