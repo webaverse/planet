@@ -39,6 +39,14 @@
       "start_url": "https://github.com/amnaarshed4224/assets/raw/main/Neo_wassie_VRM.vrm",
       "dynamic": true
     },
+{
+      "position": [
+        4,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/potion/"
+    },
     {
       "position": [
         0,
@@ -106,7 +114,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://tcm390.github.io/eth-coin/"
 }
 
 ,
@@ -137,7 +145,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://tcm390.github.io/eth-coin/"
 }
 ,
 {
@@ -167,7 +175,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://tcm390.github.io/eth-coin/"
 }
 ,
 {
