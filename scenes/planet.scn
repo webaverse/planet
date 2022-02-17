@@ -24,6 +24,21 @@
       ],
       "start_url": "https://webaverse.github.io/night-skybox/"
     },
+{
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://github.com/amnaarshed4224/assets/raw/main/Neo_wassie_VRM.vrm",
+      "dynamic": true
+    },
     {
       "position": [
         0,
@@ -37,7 +52,7 @@
 {
 "position": [
 -11.59,
-1.7,
+1.1,
 -26.26
 ],
 "quaternion": [
@@ -52,7 +67,7 @@
 {
 "position": [
 -18.05,
-1.8,
+1.01,
 -24.91
 ],
 "quaternion": [
@@ -67,7 +82,7 @@
 {
 "position": [
 -19.07,
-1.78,
+1.13,
 -19.44
 ],
 "quaternion": [
@@ -82,7 +97,7 @@
 {
 "position": [
 -25.12,
-1.75,
+0.87,
 -19.18
 ],
 "quaternion": [
@@ -93,11 +108,12 @@
 ],
 "start_url": "https://tcm390.github.io/btc-coin/"
 }
+
 ,
 {
 "position": [
 3.54,
-1.9,
+1.35,
 -21.95
 ],
 "quaternion": [
@@ -112,7 +128,7 @@
 {
 "position": [
 8.23,
-1.8,
+1.40,
 -19.27
 ],
 "quaternion": [
@@ -127,7 +143,7 @@
 {
 "position": [
 11.46,
-1.73,
+0.56,
 -14.04
 ],
 "quaternion": [
@@ -142,7 +158,7 @@
 {
 "position": [
 8.43,
-1.67,
+0.54,
 -8.22
 ],
 "quaternion": [
@@ -157,7 +173,7 @@
 {
 "position": [
 27.29,
-5.8,
+4.6,
 6.65
 ],
 "quaternion": [
@@ -172,7 +188,7 @@
 {
 "position": [
 27.88,
-8.3,
+7.4,
 11.7
 ],
 "quaternion": [
@@ -187,7 +203,7 @@
 {
 "position": [
 26.07,
-8,
+7.2,
 17.15
 ],
 "quaternion": [
@@ -202,7 +218,7 @@
 {
 "position": [
 22.78,
-8,
+7.3,
 19.61
 ],
 "quaternion": [
@@ -217,7 +233,7 @@
 {
 "position": [
 12.33,
-6.7,
+6.9,
 25.08
 ],
 "quaternion": [
@@ -232,7 +248,7 @@
 {
 "position": [
 5.90,
-6.77,
+5.9,
 28.23
 ],
 "quaternion": [
@@ -247,7 +263,7 @@
 {
 "position": [
 0.34,
-8.33,
+6.5,
 27.09
 ],
 "quaternion": [
