@@ -69,13 +69,13 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://webaverse.github.io/btc-coin/"
 }
 ,
 {
 "position": [
 -18.05,
-1.01,
+1.1,
 -24.91
 ],
 "quaternion": [
@@ -84,13 +84,13 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/eth-coin/"
+"start_url": "https://webaverse.github.io/eth-coin/"
 }
 ,
 {
 "position": [
 -19.07,
-1.13,
+1.24,
 -19.44
 ],
 "quaternion": [
@@ -99,13 +99,13 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://webaverse.github.io/btc-coin/"
 }
 ,
 {
 "position": [
 -25.12,
-0.87,
+1.24,
 -19.18
 ],
 "quaternion": [
@@ -114,13 +114,13 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/eth-coin/"
+"start_url": "https://webaverse.github.io/eth-coin/"
 }
 
 ,
 {
 "position": [
-3.54,
+3.57,
 1.35,
 -21.95
 ],
@@ -130,13 +130,13 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://webaverse.github.io/btc-coin/"
 }
 ,
 {
 "position": [
-8.23,
-1.40,
+7.23,
+1.50,
 -19.27
 ],
 "quaternion": [
@@ -145,7 +145,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/eth-coin/"
+"start_url": "https://webaverse.github.io/eth-coin/"
 }
 ,
 {
@@ -160,7 +160,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://webaverse.github.io/btc-coin/"
 }
 ,
 {
@@ -175,13 +175,13 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/eth-coin/"
+"start_url": "https://webaverse.github.io/btc-coin/"
 }
 ,
 {
 "position": [
 27.29,
-4.6,
+4.9,
 6.65
 ],
 "quaternion": [
@@ -190,7 +190,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://webaverse.github.io/eth-coin/"
 }
 ,
 {
@@ -205,13 +205,13 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/eth-coin/"
+"start_url": "https://webaverse.github.io/eth-coin/"
 }
 ,
 {
 "position": [
 26.07,
-7.2,
+7.34,
 17.15
 ],
 "quaternion": [
@@ -220,7 +220,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://webaverse.github.io/btc-coin/"
 }
 ,
 {
@@ -235,7 +235,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/eth-coin/"
+"start_url": "https://webaverse.github.io/eth-coin/"
 }
 ,
 {
@@ -250,7 +250,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://webaverse.github.io/btc-coin/"
 }
 ,
 {
@@ -265,7 +265,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/btc-coin/"
+"start_url": "https://webaverse.github.io/eth-coin/"
 }
 ,
 {
@@ -280,7 +280,7 @@
 0,
 1
 ],
-"start_url": "https://tcm390.github.io/eth-coin/"
+"start_url": "https://webaverse.github.io/btc-coin/"
 }
   ]
 }
